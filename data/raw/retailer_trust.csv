@@ -1,0 +1,176 @@
+product_id,product_name,category,retailer_id,retailer_name,price_inr,verified_seller,rating,reviews_count,complaint_count,return_policy,return_details,warranty_available,warranty_details,data_type
+P008,AirPods Pro 2,Headphones & Earbuds,R006,Tata CLiQ,23100.0,True,4.4,1531,71,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R002,Flipkart,25200.0,True,4.0,2219,9,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P014,iPad 10th Gen,Tablets,R001,Amazon India,34900.0,True,4.7,1544,9,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P010,Galaxy Watch 6,Smartwatches,R011,Samsung India,20400.0,False,4.5,1620,10,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P010,Galaxy Watch 6,Smartwatches,R001,Amazon India,21500.0,False,4.2,965,30,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P011,Apple Watch SE,Smartwatches,R009,Snapdeal,24100.0,True,3.2,2302,17,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P012,Venu Sq 2,Smartwatches,R010,Meesho,21800.0,True,4.5,121,11,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P012,Venu Sq 2,Smartwatches,R005,Vijay Sales,21900.0,False,4.0,1885,50,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P008,AirPods Pro 2,Headphones & Earbuds,R009,Snapdeal,21900.0,False,4.3,585,25,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R008,JioMart,24200.0,True,3.2,646,11,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P010,Galaxy Watch 6,Smartwatches,R003,Croma,21300.0,True,5.0,1119,34,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R011,Samsung India,25000.0,True,4.1,1348,38,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P012,Venu Sq 2,Smartwatches,R011,Samsung India,21000.0,True,3.9,849,64,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P021,Stone 1200,Speakers,R006,Tata CLiQ,5300.0,True,4.8,1516,56,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P014,iPad 10th Gen,Tablets,R002,Flipkart,33100.0,False,4.4,215,30,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P008,AirPods Pro 2,Headphones & Earbuds,R011,Samsung India,21200.0,True,4.9,2147,12,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P010,Galaxy Watch 6,Smartwatches,R012,Myntra,19100.0,True,4.3,1353,43,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R010,Meesho,25200.0,True,4.1,69,34,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R004,Reliance Digital,26000.0,True,4.2,1281,46,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P014,iPad 10th Gen,Tablets,R004,Reliance Digital,36300.0,True,4.9,984,49,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P008,AirPods Pro 2,Headphones & Earbuds,R004,Reliance Digital,23900.0,True,3.2,2382,22,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P010,Galaxy Watch 6,Smartwatches,R002,Flipkart,18700.0,True,4.3,2054,69,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P014,iPad 10th Gen,Tablets,R003,Croma,34200.0,True,3.8,323,63,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P021,Stone 1200,Speakers,R011,Samsung India,5700.0,True,4.6,1473,13,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P001,Galaxy S24,Smartphones,R010,Meesho,59000.0,True,4.1,1271,36,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P013,Galaxy Tab S9 FE,Tablets,R007,Tata Neu,29000.0,True,4.4,552,67,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P012,Venu Sq 2,Smartwatches,R003,Croma,20800.0,True,3.6,388,53,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P010,Galaxy Watch 6,Smartwatches,R007,Tata Neu,20900.0,True,4.7,1482,22,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P013,Galaxy Tab S9 FE,Tablets,R001,Amazon India,31100.0,True,3.8,621,61,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P009,Galaxy Buds FE,Headphones & Earbuds,R004,Reliance Digital,9100.0,True,4.8,619,59,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P010,Galaxy Watch 6,Smartwatches,R005,Vijay Sales,19800.0,True,4.0,1147,62,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P009,Galaxy Buds FE,Headphones & Earbuds,R009,Snapdeal,9400.0,True,4.5,1622,12,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P012,Venu Sq 2,Smartwatches,R001,Amazon India,20800.0,False,3.9,1540,5,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P021,Stone 1200,Speakers,R009,Snapdeal,5500.0,True,4.6,1566,31,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P013,Galaxy Tab S9 FE,Tablets,R002,Flipkart,31300.0,False,4.8,2285,0,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P021,Stone 1200,Speakers,R007,Tata Neu,5500.0,True,4.6,1702,17,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P001,Galaxy S24,Smartphones,R008,JioMart,53000.0,True,3.4,1336,26,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P009,Galaxy Buds FE,Headphones & Earbuds,R010,Meesho,10600.0,True,4.4,1084,74,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P012,Venu Sq 2,Smartwatches,R004,Reliance Digital,23600.0,True,5.0,2138,3,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P012,Venu Sq 2,Smartwatches,R002,Flipkart,21400.0,True,3.8,874,14,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P013,Galaxy Tab S9 FE,Tablets,R010,Meesho,34000.0,True,3.8,1633,23,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R005,Vijay Sales,22800.0,True,3.7,1642,32,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P012,Venu Sq 2,Smartwatches,R007,Tata Neu,21700.0,False,4.3,605,45,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P012,Venu Sq 2,Smartwatches,R008,JioMart,21800.0,False,4.0,335,0,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P001,Galaxy S24,Smartphones,R002,Flipkart,58800.0,True,5.0,1169,9,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P009,Galaxy Buds FE,Headphones & Earbuds,R011,Samsung India,9100.0,True,4.4,2433,73,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R006,Tata CLiQ,25800.0,True,3.2,924,64,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R003,Croma,27100.0,True,4.2,1254,19,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P009,Galaxy Buds FE,Headphones & Earbuds,R003,Croma,9600.0,True,4.6,1022,12,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P008,AirPods Pro 2,Headphones & Earbuds,R007,Tata Neu,24500.0,False,4.3,1535,0,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P013,Galaxy Tab S9 FE,Tablets,R009,Snapdeal,29300.0,True,3.3,2209,74,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P009,Galaxy Buds FE,Headphones & Earbuds,R005,Vijay Sales,9200.0,True,3.5,864,4,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R007,Tata Neu,26600.0,True,3.4,987,52,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R001,Amazon India,27200.0,True,4.7,1641,31,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P009,Galaxy Buds FE,Headphones & Earbuds,R002,Flipkart,9400.0,True,4.8,2182,47,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P013,Galaxy Tab S9 FE,Tablets,R011,Samsung India,35600.0,True,3.8,1063,53,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P010,Galaxy Watch 6,Smartwatches,R009,Snapdeal,21700.0,True,4.9,631,71,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P012,Venu Sq 2,Smartwatches,R006,Tata CLiQ,21400.0,True,4.3,1198,38,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P012,Venu Sq 2,Smartwatches,R009,Snapdeal,20300.0,False,3.9,1515,55,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P002,iPhone 15,Smartphones,R011,Samsung India,49800.0,True,4.1,816,31,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P008,AirPods Pro 2,Headphones & Earbuds,R010,Meesho,24800.0,True,4.6,253,68,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P018,Bravia X75L,Smart TVs,R011,Samsung India,58100.0,True,3.8,1633,23,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P004,Inspiron 15,Laptops,R001,Amazon India,50800.0,True,3.2,199,14,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P018,Bravia X75L,Smart TVs,R012,Myntra,55100.0,True,4.2,2234,24,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P004,Inspiron 15,Laptops,R003,Croma,54700.0,True,3.9,1083,73,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P018,Bravia X75L,Smart TVs,R010,Meesho,57000.0,True,3.6,1767,7,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P020,SRS-XB100,Speakers,R011,Samsung India,4300.0,False,3.3,1735,50,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P018,Bravia X75L,Smart TVs,R008,JioMart,57500.0,True,3.7,1451,66,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P004,Inspiron 15,Laptops,R002,Flipkart,54400.0,True,3.2,401,66,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P002,iPhone 15,Smartphones,R008,JioMart,47700.0,True,4.7,686,51,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P018,Bravia X75L,Smart TVs,R002,Flipkart,63100.0,True,3.7,2401,41,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P004,Inspiron 15,Laptops,R008,JioMart,53900.0,False,3.3,810,25,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P018,Bravia X75L,Smart TVs,R003,Croma,55400.0,True,3.3,813,28,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P004,Inspiron 15,Laptops,R004,Reliance Digital,49400.0,True,4.3,1302,67,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P017,OLED C3,Smart TVs,R005,Vijay Sales,93900.0,False,3.4,1685,0,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P004,Inspiron 15,Laptops,R011,Samsung India,47500.0,True,4.4,1261,26,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P017,OLED C3,Smart TVs,R007,Tata Neu,96300.0,True,4.5,1862,27,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P004,Inspiron 15,Laptops,R009,Snapdeal,48500.0,False,4.2,1750,65,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P017,OLED C3,Smart TVs,R006,Tata CLiQ,101000.0,True,4.7,1698,13,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P004,Inspiron 15,Laptops,R005,Vijay Sales,48400.0,True,4.7,999,64,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P020,SRS-XB100,Speakers,R009,Snapdeal,4400.0,True,4.3,1959,49,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P017,OLED C3,Smart TVs,R011,Samsung India,90900.0,True,4.0,683,48,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P005,IdeaPad Slim 5,Laptops,R001,Amazon India,62400.0,True,3.3,2137,2,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P017,OLED C3,Smart TVs,R004,Reliance Digital,100600.0,True,4.7,129,19,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P002,iPhone 15,Smartphones,R003,Croma,49900.0,True,4.1,76,41,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P005,IdeaPad Slim 5,Laptops,R003,Croma,62500.0,True,3.2,1583,48,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P003,OnePlus 12,Smartphones,R005,Vijay Sales,53100.0,True,4.4,1512,52,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P017,OLED C3,Smart TVs,R012,Myntra,91700.0,False,3.9,2100,40,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P018,Bravia X75L,Smart TVs,R009,Snapdeal,59700.0,True,4.2,41,6,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P019,Flip 6,Speakers,R003,Croma,10800.0,True,3.7,1187,27,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P020,SRS-XB100,Speakers,R001,Amazon India,4700.0,True,4.8,1013,3,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P002,iPhone 15,Smartphones,R006,Tata CLiQ,49700.0,True,4.2,671,36,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P019,Flip 6,Speakers,R005,Vijay Sales,9000.0,True,3.2,2077,17,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P019,Flip 6,Speakers,R007,Tata Neu,9700.0,True,3.2,2184,49,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P002,iPhone 15,Smartphones,R007,Tata Neu,48700.0,False,4.4,1835,0,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P019,Flip 6,Speakers,R006,Tata CLiQ,9700.0,True,3.5,2279,69,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P020,SRS-XB100,Speakers,R003,Croma,4200.0,True,4.5,1863,28,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P002,iPhone 15,Smartphones,R005,Vijay Sales,46100.0,True,3.4,527,42,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P002,iPhone 15,Smartphones,R004,Reliance Digital,48000.0,False,4.5,1805,45,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P019,Flip 6,Speakers,R009,Snapdeal,9400.0,True,3.7,142,32,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P003,OnePlus 12,Smartphones,R001,Amazon India,54400.0,True,3.8,1637,27,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P019,Flip 6,Speakers,R011,Samsung India,9700.0,False,4.1,295,35,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P003,OnePlus 12,Smartphones,R003,Croma,53200.0,False,4.3,1180,20,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P019,Flip 6,Speakers,R004,Reliance Digital,9900.0,False,3.2,1390,5,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P003,OnePlus 12,Smartphones,R002,Flipkart,52600.0,True,4.2,338,3,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P019,Flip 6,Speakers,R012,Myntra,10000.0,True,4.8,1879,44,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P003,OnePlus 12,Smartphones,R008,JioMart,51100.0,True,4.9,2224,14,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P019,Flip 6,Speakers,R010,Meesho,10300.0,True,4.7,43,8,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P003,OnePlus 12,Smartphones,R012,Myntra,49700.0,True,4.8,846,61,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P019,Flip 6,Speakers,R008,JioMart,9300.0,False,4.9,1830,70,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P020,SRS-XB100,Speakers,R012,Myntra,4500.0,True,4.6,1817,57,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P003,OnePlus 12,Smartphones,R004,Reliance Digital,57300.0,True,4.5,411,1,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P019,Flip 6,Speakers,R002,Flipkart,9300.0,True,3.6,1809,49,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P002,iPhone 15,Smartphones,R012,Myntra,45300.0,True,3.6,1231,71,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P003,OnePlus 12,Smartphones,R011,Samsung India,51300.0,True,4.9,1182,22,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P003,OnePlus 12,Smartphones,R009,Snapdeal,51300.0,True,4.6,2331,46,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P014,iPad 10th Gen,Tablets,R009,Snapdeal,31900.0,False,4.3,1125,40,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P005,IdeaPad Slim 5,Laptops,R008,JioMart,61500.0,True,3.3,2151,16,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P005,IdeaPad Slim 5,Laptops,R012,Myntra,65200.0,True,3.8,2058,73,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P006,MacBook Air M3,Laptops,R005,Vijay Sales,106200.0,True,4.0,1416,31,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P015,Tab M11,Tablets,R007,Tata Neu,16400.0,True,4.4,1764,4,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P007,WH-1000XM5,Headphones & Earbuds,R003,Croma,23600.0,True,4.7,1001,66,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P015,Tab M11,Tablets,R009,Snapdeal,17500.0,True,4.4,1969,59,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P021,Stone 1200,Speakers,R003,Croma,5000.0,False,4.3,1650,40,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P007,WH-1000XM5,Headphones & Earbuds,R002,Flipkart,25300.0,True,5.0,277,17,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P015,Tab M11,Tablets,R004,Reliance Digital,18000.0,True,3.5,1626,16,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P007,WH-1000XM5,Headphones & Earbuds,R004,Reliance Digital,25000.0,True,4.8,2161,26,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P015,Tab M11,Tablets,R012,Myntra,17800.0,True,4.7,2256,46,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P001,Galaxy S24,Smartphones,R006,Tata CLiQ,55900.0,True,5.0,1112,27,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P007,WH-1000XM5,Headphones & Earbuds,R009,Snapdeal,22800.0,True,4.6,1056,46,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P015,Tab M11,Tablets,R010,Meesho,17300.0,True,4.5,1022,12,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P015,Tab M11,Tablets,R008,JioMart,16600.0,True,4.8,2277,67,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P007,WH-1000XM5,Headphones & Earbuds,R006,Tata CLiQ,23900.0,True,4.4,2023,38,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P015,Tab M11,Tablets,R002,Flipkart,17400.0,True,4.4,569,9,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P007,WH-1000XM5,Headphones & Earbuds,R007,Tata Neu,24000.0,False,3.5,1555,20,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P015,Tab M11,Tablets,R003,Croma,16600.0,True,3.4,2058,73,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P021,Stone 1200,Speakers,R004,Reliance Digital,5700.0,True,3.8,1437,52,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P008,AirPods Pro 2,Headphones & Earbuds,R001,Amazon India,22800.0,True,4.4,2101,41,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P014,iPad 10th Gen,Tablets,R005,Vijay Sales,33800.0,True,3.3,2056,71,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P008,AirPods Pro 2,Headphones & Earbuds,R003,Croma,22900.0,True,4.5,2299,14,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P014,iPad 10th Gen,Tablets,R007,Tata Neu,33700.0,False,4.3,910,50,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P008,AirPods Pro 2,Headphones & Earbuds,R008,JioMart,24700.0,True,4.6,1578,43,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P001,Galaxy S24,Smartphones,R004,Reliance Digital,60100.0,True,4.9,1238,3,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P014,iPad 10th Gen,Tablets,R006,Tata CLiQ,32800.0,True,3.7,1033,23,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P016,Crystal UHD 4K,Smart TVs,R001,Amazon India,50400.0,True,4.5,1126,41,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P017,OLED C3,Smart TVs,R002,Flipkart,97400.0,True,4.2,372,37,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P006,MacBook Air M3,Laptops,R007,Tata Neu,94600.0,True,3.4,1541,6,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P006,MacBook Air M3,Laptops,R009,Snapdeal,93500.0,False,4.1,1115,30,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P017,OLED C3,Smart TVs,R003,Croma,90600.0,True,4.9,847,62,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P005,IdeaPad Slim 5,Laptops,R004,Reliance Digital,54600.0,False,3.7,1115,30,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P017,OLED C3,Smart TVs,R001,Amazon India,93100.0,True,4.7,452,42,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P005,IdeaPad Slim 5,Laptops,R011,Samsung India,62200.0,True,3.8,2019,34,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P020,SRS-XB100,Speakers,R006,Tata CLiQ,4600.0,True,3.7,892,32,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P016,Crystal UHD 4K,Smart TVs,R005,Vijay Sales,47200.0,True,4.3,2366,6,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P005,IdeaPad Slim 5,Laptops,R006,Tata CLiQ,64200.0,True,4.3,1332,22,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P016,Crystal UHD 4K,Smart TVs,R007,Tata Neu,43100.0,True,5.0,298,38,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P002,iPhone 15,Smartphones,R001,Amazon India,48700.0,True,3.7,683,48,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P016,Crystal UHD 4K,Smart TVs,R006,Tata CLiQ,48800.0,True,5.0,1927,17,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P005,IdeaPad Slim 5,Laptops,R007,Tata Neu,59400.0,False,4.8,1145,60,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P016,Crystal UHD 4K,Smart TVs,R009,Snapdeal,49800.0,True,4.7,216,31,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P006,MacBook Air M3,Laptops,R001,Amazon India,95800.0,True,3.4,1549,14,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P016,Crystal UHD 4K,Smart TVs,R011,Samsung India,43200.0,True,4.5,639,4,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P011,Apple Watch SE,Smartwatches,R012,Myntra,23900.0,True,4.1,631,71,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P006,MacBook Air M3,Laptops,R003,Croma,103200.0,True,4.6,1594,59,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P016,Crystal UHD 4K,Smart TVs,R004,Reliance Digital,49500.0,True,3.9,2359,74,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P006,MacBook Air M3,Laptops,R010,Meesho,94800.0,True,3.9,322,62,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P016,Crystal UHD 4K,Smart TVs,R012,Myntra,49600.0,True,3.8,472,62,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P021,Stone 1200,Speakers,R001,Amazon India,5300.0,False,3.5,1845,10,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P006,MacBook Air M3,Laptops,R012,Myntra,92300.0,False,4.3,1380,70,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P016,Crystal UHD 4K,Smart TVs,R010,Meesho,47100.0,False,4.0,1940,30,True,Illustrative return/exchange policy,False,Not listed in demo data,Simulated
+P006,MacBook Air M3,Laptops,R004,Reliance Digital,98100.0,True,3.3,949,14,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P001,Galaxy S24,Smartphones,R005,Vijay Sales,51800.0,True,4.7,603,43,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated
+P016,Crystal UHD 4K,Smart TVs,R002,Flipkart,47300.0,True,3.8,1763,3,False,Not listed in demo data,False,Not listed in demo data,Simulated
+P016,Crystal UHD 4K,Smart TVs,R003,Croma,48600.0,True,4.5,928,68,True,Illustrative return/exchange policy,True,Illustrative warranty indicator,Simulated
+P021,Stone 1200,Speakers,R005,Vijay Sales,4900.0,True,3.9,1971,61,False,Not listed in demo data,True,Illustrative warranty indicator,Simulated

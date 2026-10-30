@@ -1,0 +1,13 @@
+product_id,product_name,platform,seller_name,price,market_average_price,rating,reviews_count,return_policy,warranty_available,verified_seller,complaint_count
+P001,Samsung Galaxy S24,ShopA,TechWorld,54999,59999,4.5,1250,Yes,Yes,Yes,5
+P002,Samsung Galaxy S24,ShopB,MobileDeals,44999,59999,3.2,180,No,No,No,24
+P003,Samsung Galaxy S24,ShopC,SmartBuy,57999,59999,4.3,890,Yes,Yes,Yes,8
+P004,iPhone 15,ShopA,TechWorld,62999,65999,4.6,2100,Yes,Yes,Yes,4
+P005,iPhone 15,ShopB,QuickMobile,49999,65999,2.9,95,No,No,No,31
+P006,iPhone 15,ShopC,AppleStorePartner,64999,65999,4.7,1500,Yes,Yes,Yes,3
+P007,OnePlus 12,ShopA,TechWorld,54999,57999,4.4,1100,Yes,Yes,Yes,6
+P008,OnePlus 12,ShopB,ValueMobiles,47999,57999,3.5,220,Yes,No,No,18
+P009,OnePlus 12,ShopC,MobileHub,56999,57999,4.2,760,Yes,Yes,Yes,7
+P010,Google Pixel 8,ShopA,TechWorld,52999,55999,4.5,950,Yes,Yes,Yes,5
+P011,Google Pixel 8,ShopB,FlashPhones,41999,55999,2.8,70,No,No,No,35
+P012,Google Pixel 8,ShopC,PixelWorld,54999,55999,4.4,680,Yes,Yes,Yes,6

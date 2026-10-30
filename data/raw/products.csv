@@ -1,0 +1,22 @@
+product_id,product_name,brand,category,model_variant
+P001,Galaxy S24,Samsung,Smartphones,128GB
+P002,iPhone 15,Apple,Smartphones,128GB
+P003,OnePlus 12,OnePlus,Smartphones,256GB
+P004,Inspiron 15,Dell,Laptops,15-inch
+P005,IdeaPad Slim 5,Lenovo,Laptops,14-inch
+P006,MacBook Air M3,Apple,Laptops,13-inch
+P007,WH-1000XM5,Sony,Headphones & Earbuds,Wireless Headphones
+P008,AirPods Pro 2,Apple,Headphones & Earbuds,Wireless Earbuds
+P009,Galaxy Buds FE,Samsung,Headphones & Earbuds,Wireless Earbuds
+P010,Galaxy Watch 6,Samsung,Smartwatches,44mm Bluetooth
+P011,Apple Watch SE,Apple,Smartwatches,40mm GPS
+P012,Venu Sq 2,Garmin,Smartwatches,GPS Smartwatch
+P013,Galaxy Tab S9 FE,Samsung,Tablets,128GB WiFi
+P014,iPad 10th Gen,Apple,Tablets,64GB WiFi
+P015,Tab M11,Lenovo,Tablets,128GB WiFi
+P016,Crystal UHD 4K,Samsung,Smart TVs,55-inch
+P017,OLED C3,LG,Smart TVs,55-inch
+P018,Bravia X75L,Sony,Smart TVs,55-inch
+P019,Flip 6,JBL,Speakers,Portable Bluetooth
+P020,SRS-XB100,Sony,Speakers,Portable Bluetooth
+P021,Stone 1200,boAt,Speakers,Portable Bluetooth
